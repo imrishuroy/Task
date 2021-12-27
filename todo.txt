@@ -1,0 +1,4 @@
+Task to do
+Parse the API given below
+ HYPERLINK "https://www.svgs.co/api/CommonServices" https://www.svgs.co/api/CommonServices
+Note- Parse only home banner content and show them in the list view (horizontal)
